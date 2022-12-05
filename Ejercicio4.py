@@ -1,0 +1,6 @@
+print("Escribe tu nombre:")
+nombre = input()
+print("Escribe un número:")
+numero = input()
+numero = int(numero)
+print((nombre+"\n")*numero)
